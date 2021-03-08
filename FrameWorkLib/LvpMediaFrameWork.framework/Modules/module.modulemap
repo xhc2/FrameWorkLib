@@ -1,0 +1,6 @@
+framework module LvpMediaFrameWork {
+  umbrella header "LvpMediaFrameWork.h"
+
+  export *
+  module * { export * }
+}
